@@ -1,6 +1,0 @@
-This is a new sub branch file to test the folder
-Trying to copy this file upto one folder up in the 'subbranch' directly
-
-Adding the file to the above path
-
-LETS TRY TO PUSH THIS FILE INTO A DIFFERENT FOLDER
